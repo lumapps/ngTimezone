@@ -15,8 +15,7 @@ Sample Usage:
 
     angular.module('myApp')
       .directive('myDirective', function ($timezone) {  
-        var timezone = $timezone.getName();
-        // sample output: 'America/New_York'
+        var timezone = $timezone.getName(); // sample output: 'America/New_York'
       });
 
 You can use this value to query your database for a datetime with the appropriate timezone offset using MySQL's CONVERT_TZ method or an equivalent.
