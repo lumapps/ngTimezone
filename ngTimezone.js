@@ -2,7 +2,8 @@
 
 /**
  * Angular timezone detection
- * @author Charlie Martin 
+ * @author Charlie Martin
+ * @license MIT License - http://www.opensource.org/licenses/mit-license.php
  * https://github.com/cmmartin/ngTimezone.git
  */
 
