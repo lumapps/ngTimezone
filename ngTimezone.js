@@ -359,8 +359,7 @@ angular.module('ngTimezone', [])
     } else {
       this.jstz = jstz;
     }
-
-    
+ 
     return {
       getName: function () {
         return jstz.determine().name();
