@@ -5,6 +5,10 @@ An angular service for detecting the clients timezone.
 
 This is an angular wrapper for the jsTimezoneDetect (https://bitbucket.org/pellepim/jstimezonedetect/overview) library. 
 
+Install:
+
+    $ bower install ngTimezone
+
 Sample Usage:
 
 1) Import the ngTimezone module into your angular app...
