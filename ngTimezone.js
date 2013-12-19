@@ -1,11 +1,11 @@
+/**
+* This script gives you the zone info key representing your device's time zone setting.
+* This is just Jon Nylander's jsTimezoneDetect wrapped in a basic Angular service.
+* https://bitbucket.org/pellepim
+*/
+
 'use strict';
 
-/**
- * Angular timezone detection
- * @author Charlie Martin
- * @license MIT License - http://www.opensource.org/licenses/mit-license.php
- * https://github.com/cmmartin/ngTimezone.git
- */
 
 angular.module('ngTimezone', [])
   .factory('$timezone', function () {
