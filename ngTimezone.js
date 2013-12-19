@@ -1,7 +1,7 @@
 /**
 * This script gives you the zone info key representing your device's time zone setting.
 * This is just Jon Nylander's jsTimezoneDetect wrapped in a basic Angular service.
-* https://bitbucket.org/pellepim
+* https://bitbucket.org/pellepim/jstimezonedetect
 */
 
 'use strict';
