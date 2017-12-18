@@ -1,0 +1,9 @@
+{
+  "name": "ng-timezone",
+  "version": "1.0.0",
+  "description": "Timezone detection in Angular",
+  "main": "ngTimezone.js",
+  "repository": "https://github.com/lumapps/ngTimezone",
+  "author": "Charlie Martin (https://github.com/cmmartin)",
+  "license": "MIT"
+}
